@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/static/css/main.2a047998.css",
-    "main.js": "/static/js/main.bd63c669.js",
+    "main.js": "/static/js/main.d3849f4e.js",
     "static/js/937.53bb7c0b.chunk.js": "/static/js/937.53bb7c0b.chunk.js",
     "static/js/787.d3f21b02.chunk.js": "/static/js/787.d3f21b02.chunk.js",
     "static/media/pic4.png": "/static/media/pic4.2e8e184c10090f26a8dd.png",
     "static/media/centurygothic.ttf": "/static/media/centurygothic.b194aa2bd524e2c973f7.ttf",
-    "static/media/resume.pdf": "/static/media/resume.99abc1655218038410b3.pdf",
+    "static/media/resume.pdf": "/static/media/resume.8479b0a85a235876a8ee.pdf",
     "static/media/bebasneue-regular.otf": "/static/media/bebasneue-regular.a92d19b5693c162bf887.otf",
     "static/media/logo.svg": "/static/media/logo.4b3c0e8deb20398312f1fd27f617789e.svg",
     "index.html": "/index.html",
     "main.2a047998.css.map": "/static/css/main.2a047998.css.map",
-    "main.bd63c669.js.map": "/static/js/main.bd63c669.js.map",
+    "main.d3849f4e.js.map": "/static/js/main.d3849f4e.js.map",
     "937.53bb7c0b.chunk.js.map": "/static/js/937.53bb7c0b.chunk.js.map",
     "787.d3f21b02.chunk.js.map": "/static/js/787.d3f21b02.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2a047998.css",
-    "static/js/main.bd63c669.js"
+    "static/js/main.d3849f4e.js"
   ]
 }
