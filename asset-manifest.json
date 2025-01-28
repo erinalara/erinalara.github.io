@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.49005fb4.css",
-    "main.js": "/static/js/main.93db4385.js",
-    "static/js/937.53bb7c0b.chunk.js": "/static/js/937.53bb7c0b.chunk.js",
-    "static/js/787.d3f21b02.chunk.js": "/static/js/787.d3f21b02.chunk.js",
+    "main.css": "/static/css/main.351ed20c.css",
+    "main.js": "/static/js/main.05bc5dab.js",
+    "static/js/554.6646cd93.chunk.js": "/static/js/554.6646cd93.chunk.js",
+    "static/js/453.a21c0e48.chunk.js": "/static/js/453.a21c0e48.chunk.js",
     "static/media/pic4.png": "/static/media/pic4.2e8e184c10090f26a8dd.png",
     "static/media/centurygothic.ttf": "/static/media/centurygothic.b194aa2bd524e2c973f7.ttf",
-    "static/media/resume.pdf": "/static/media/resume.884014d2ef2b28af176b.pdf",
+    "static/media/resume.pdf": "/static/media/resume.cbba2fb08ecb0300c71b.pdf",
     "static/media/bebasneue-regular.otf": "/static/media/bebasneue-regular.a92d19b5693c162bf887.otf",
-    "static/media/logo.svg": "/static/media/logo.4b3c0e8deb20398312f1fd27f617789e.svg",
+    "static/media/logo.svg": "/static/media/logo.c91741045d401ef8e3beb09317e5df61.svg",
     "index.html": "/index.html",
-    "main.49005fb4.css.map": "/static/css/main.49005fb4.css.map",
-    "main.93db4385.js.map": "/static/js/main.93db4385.js.map",
-    "937.53bb7c0b.chunk.js.map": "/static/js/937.53bb7c0b.chunk.js.map",
-    "787.d3f21b02.chunk.js.map": "/static/js/787.d3f21b02.chunk.js.map"
+    "main.351ed20c.css.map": "/static/css/main.351ed20c.css.map",
+    "main.05bc5dab.js.map": "/static/js/main.05bc5dab.js.map",
+    "554.6646cd93.chunk.js.map": "/static/js/554.6646cd93.chunk.js.map",
+    "453.a21c0e48.chunk.js.map": "/static/js/453.a21c0e48.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.49005fb4.css",
-    "static/js/main.93db4385.js"
+    "static/css/main.351ed20c.css",
+    "static/js/main.05bc5dab.js"
   ]
 }
